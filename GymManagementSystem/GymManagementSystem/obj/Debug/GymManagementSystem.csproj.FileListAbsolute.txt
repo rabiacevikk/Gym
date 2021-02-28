@@ -1,0 +1,17 @@
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Form1.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmNewMember.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmNewStaff.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmEquipment.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmViewEquipment.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSearchMember.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmDeleteMember.resources
+C:\Users\rabia\OneDrive\Masaüstü\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
